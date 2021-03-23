@@ -1,1 +1,1 @@
-# snake_game.github.io
+# snake_game
