@@ -1,0 +1,10 @@
+#mydiv{
+    width: 100px;
+    height: 100px;
+    background-color: green; 
+    margin: 20px;
+ }
+ #mycanvas{
+     background-color: black;
+     border: 5px solid red;
+ }
